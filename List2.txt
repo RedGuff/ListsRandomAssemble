@@ -1,0 +1,7 @@
+Appeller le patron
+Ranger les courses
+Vider les casiers
+Demander des outils neufs
+Ouvrir la porte
+Aboyer
+Travailler
